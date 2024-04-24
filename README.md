@@ -25,4 +25,5 @@ Rollback was a success! Happy Helming!
 @TheNewExecutor ➜ /workspaces/sre-week-four (main) $ helm list -a -n sre
 NAME            NAMESPACE       REVISION        UPDATED                                 STATUS          CHART                   APP VERSION
 upcommerce      sre             3               2024-04-24 06:38:50.820590015 +0000 UTC deployed        upcommerce-0.1.0                   
-@TheNewExecutor ➜ /workspaces/sre-week-four (main) $ ```
+@TheNewExecutor ➜ /workspaces/sre-week-four (main) $
+ ```
